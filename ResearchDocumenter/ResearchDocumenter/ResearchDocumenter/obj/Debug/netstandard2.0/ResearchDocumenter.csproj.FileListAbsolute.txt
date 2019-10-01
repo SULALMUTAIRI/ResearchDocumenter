@@ -1,0 +1,12 @@
+C:\Users\90930034\Source\Repos\ResearchDocumenter\ResearchDocumenter\ResearchDocumenter\ResearchDocumenter\bin\Debug\netstandard2.0\ResearchDocumenter.deps.json
+C:\Users\90930034\Source\Repos\ResearchDocumenter\ResearchDocumenter\ResearchDocumenter\ResearchDocumenter\bin\Debug\netstandard2.0\ResearchDocumenter.dll
+C:\Users\90930034\Source\Repos\ResearchDocumenter\ResearchDocumenter\ResearchDocumenter\ResearchDocumenter\bin\Debug\netstandard2.0\ResearchDocumenter.pdb
+C:\Users\90930034\Source\Repos\ResearchDocumenter\ResearchDocumenter\ResearchDocumenter\ResearchDocumenter\obj\Debug\netstandard2.0\ResearchDocumenter.csprojAssemblyReference.cache
+C:\Users\90930034\Source\Repos\ResearchDocumenter\ResearchDocumenter\ResearchDocumenter\ResearchDocumenter\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\90930034\Source\Repos\ResearchDocumenter\ResearchDocumenter\ResearchDocumenter\ResearchDocumenter\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\90930034\Source\Repos\ResearchDocumenter\ResearchDocumenter\ResearchDocumenter\ResearchDocumenter\obj\Debug\netstandard2.0\ResearchDocumenter.csproj.CoreCompileInputs.cache
+C:\Users\90930034\Source\Repos\ResearchDocumenter\ResearchDocumenter\ResearchDocumenter\ResearchDocumenter\obj\Debug\netstandard2.0\ResearchDocumenter.AssemblyInfoInputs.cache
+C:\Users\90930034\Source\Repos\ResearchDocumenter\ResearchDocumenter\ResearchDocumenter\ResearchDocumenter\obj\Debug\netstandard2.0\ResearchDocumenter.AssemblyInfo.cs
+C:\Users\90930034\Source\Repos\ResearchDocumenter\ResearchDocumenter\ResearchDocumenter\ResearchDocumenter\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\90930034\Source\Repos\ResearchDocumenter\ResearchDocumenter\ResearchDocumenter\ResearchDocumenter\obj\Debug\netstandard2.0\ResearchDocumenter.dll
+C:\Users\90930034\Source\Repos\ResearchDocumenter\ResearchDocumenter\ResearchDocumenter\ResearchDocumenter\obj\Debug\netstandard2.0\ResearchDocumenter.pdb
